@@ -8,3 +8,4 @@ cd dotfiles
 ./link
 ```
 
+The Linux files are in the `master` branch.
